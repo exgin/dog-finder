@@ -1,7 +1,6 @@
 import React from 'react';
 import './App.css';
 import dogs from './dogs';
-import dog from './dog-pics';
 import DogList from './DogList';
 
 function App() {

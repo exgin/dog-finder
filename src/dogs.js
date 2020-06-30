@@ -2,10 +2,10 @@
 // const { whiskey, duke, perry, tubby } = dogPics;
 import React from 'react';
 
-import whiskey from './dog-pics/whiskey.jpg';
-import duke from './dog-pics/duke.jpg';
-import perry from './dog-pics/perry.jpg';
-import tubby from './dog-pics/tubby.jpg';
+import whiskey from './images/whiskey.jpg';
+import duke from './images/duke.jpg';
+import perry from './images/perry.jpg';
+import tubby from './images/tubby.jpg';
 
 const dogs = [
   {
