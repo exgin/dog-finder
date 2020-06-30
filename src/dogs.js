@@ -1,9 +1,9 @@
 // import dogPics from './dog-pics';
 // const { whiskey, duke, perry, tubby } = dogPics;
-import whiskey from './dog-pics/whiskey.png';
-import duke from './dog-pics/duke.png';
-import perry from './dog-pics/perry.png';
-import tubby from './dog-pics/tubby.png';
+import whiskey from './dog-pics/whiskey.jpg';
+import duke from './dog-pics/duke.jpg';
+import perry from './dog-pics/perry.jpg';
+import tubby from './dog-pics/tubby.jpg';
 
 const dogs = [
   {
