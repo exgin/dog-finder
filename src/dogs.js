@@ -1,5 +1,7 @@
 // import dogPics from './dog-pics';
 // const { whiskey, duke, perry, tubby } = dogPics;
+import React from 'react';
+
 import whiskey from './dog-pics/whiskey.jpg';
 import duke from './dog-pics/duke.jpg';
 import perry from './dog-pics/perry.jpg';
