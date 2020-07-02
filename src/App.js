@@ -1,12 +1,11 @@
 import React from 'react';
 import './App.css';
-import dogs from './dogs';
-import DogList from './DogList';
+import Routes from './Routes';
 
 function App() {
   return (
     <div className='App'>
-      <DogList dogs={dogs} />
+      <Routes />
     </div>
   );
 }
